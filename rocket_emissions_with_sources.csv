@@ -1,0 +1,16 @@
+rocket,propellant,liftoff_mass_kg,payload_leo_kg,bc_t_per_launch,source_mass_payload,source_propellant,liftoff_mass_t,payload_leo_t
+Angara A5,LOX/RP-1 (kerolox),773000.0,24500.0,5.24,https://en.wikipedia.org/wiki/Angara_(rocket_family),https://en.wikipedia.org/wiki/Angara_(rocket_family),773.0,24.5
+Antares 230,LOX/RP-1 (kerolox) core + solid upper stage,298000.0,8000.0,1.94,https://en.wikipedia.org/wiki/Antares_(rocket),https://en.wikipedia.org/wiki/Antares_(rocket),298.0,8.0
+Antares 230+,LOX/RP-1 (kerolox) core + solid upper stage,298000.0,8000.0,1.94,https://en.wikipedia.org/wiki/Antares_(rocket),https://en.wikipedia.org/wiki/Antares_(rocket),298.0,8.0
+Atlas V 401,LOX/RP-1 core + LOX/LH2 upper (Centaur),334500.0,9797.0,2.44,https://space.stackexchange.com/questions/12895/what-was-the-thrust-to-weight-ratio-during-liftoff-of-the-atlas-v-oa-4-launch,https://en.wikipedia.org/wiki/Atlas_V,334.5,9.797
+Atlas V 421,LOX/RP-1 core + LOX/LH2 upper (Centaur) + 2 SRBs,433000.0,14067.0,3.16,https://go4liftoff.com/launch/atlas-v-421-sbirs-geo-6?returnURL=%2F,https://en.wikipedia.org/wiki/Atlas_V,433.0,14.067
+Atlas V 541,LOX/RP-1 core + LOX/LH2 upper (Centaur) + 4 SRBs,531000.0,17410.0,3.88,https://www.goes-r.gov/spacesegment/launchvehicle.html,https://en.wikipedia.org/wiki/Atlas_V,531.0,17.41
+Atlas V 551,LOX/RP-1 core + LOX/LH2 upper (Centaur) + 5 SRBs,589000.0,18814.0,4.24,https://www.facebook.com/ulalaunch/posts/this-atlas-v-551-rocket-designated-av-105-stands-205-feet-625m-tall-and-will-wei/1277073064076048/,https://en.wikipedia.org/wiki/Atlas_V,589.0,18.814
+Electron,LOX/RP-1 (kerolox),13000.0,320.0,0.09,https://en.wikipedia.org/wiki/Rocket_Lab_Electron,https://en.wikipedia.org/wiki/Rocket_Lab_Electron,13.0,0.32
+Falcon 9,LOX/RP-1 (kerolox),549054.0,22800.0,4.55,https://www.spacex.com/vehicles/falcon-9/,https://www.spacex.com/vehicles/falcon-9/,549.054,22.8
+Falcon Heavy,LOX/RP-1 (kerolox),1420788.0,63800.0,13.15,https://www.spacex.com/vehicles/falcon-heavy/,https://www.spacex.com/vehicles/falcon-heavy/,1420.788,63.8
+Long March 7,LOX/RP-1 (kerolox) base variant,597000.0,13500.0,2.86,https://en.wikipedia.org/wiki/Long_March_7,https://en.wikipedia.org/wiki/Long_March_7,597.0,13.5
+Long March 8,LOX/RP-1 boosters+stage1 + LOX/LH2 stage2,356000.0,8100.0,2.86,https://en.wikipedia.org/wiki/Long_March_8,https://en.wikipedia.org/wiki/Long_March_8,356.0,8.1
+Soyuz-2.1v,LOX/RP-1 (kerolox),158000.0,2800.0,0.5,https://en.wikipedia.org/wiki/Soyuz-2,https://en.wikipedia.org/wiki/Soyuz-2,158.0,2.8
+Soyuz-2.1a,LOX/RP-1 (kerolox),312000.0,7200.0,2.18,https://en.wikipedia.org/wiki/Soyuz-2,https://en.wikipedia.org/wiki/Soyuz-2,312.0,7.2
+Soyuz-2.1b,LOX/RP-1 (kerolox),312000.0,8200.0,2.18,https://en.wikipedia.org/wiki/Soyuz-2,https://en.wikipedia.org/wiki/Soyuz-2,312.0,8.2
